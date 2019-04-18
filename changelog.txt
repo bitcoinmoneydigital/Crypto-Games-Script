@@ -1,0 +1,14 @@
+Changelog version 1.1
+
+#Secure in faucet base64
+#Fixed bug in timer faucet (brain function checkaddress) - Reported by zer0w0rm
+#Added chat for users (tawk.to)
+#Added the variable for Google Analystics Code.
+#Added NastyHosts (brain.php,index.php)
+
+
+
+
+
+
+#add a new column in database coinhive_api
